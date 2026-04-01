@@ -133,11 +133,28 @@ Create 6–10 product data with:
 ---
 
 ### 📂 GitHub Repository
-- Create Beautiful Github Readme with following description
-    - Name of your  Project
-    - A little Description
-    - Technology that you use
-    - 3 Features about your project. 
+Create a beautiful GitHub README for the project. Below is a ready-to-use README snippet you can copy to your repository's root README (it is included here first as requested):
+
+---
+
+## DigiTools — Premium Digital Tools Marketplace
+
+> DigiTools is a curated marketplace for premium digital products — templates, design assets, and productivity tools. The app follows a Figma design and provides a smooth, responsive shopping experience where users can browse products, add items to a cart, and complete checkout with helpful toast notifications.
+
+### Technologies
+- React.js
+- Vite
+- Tailwind CSS
+- DaisyUI
+- React-Toastify
+- JavaScript (ES6+)
+
+### Key Features
+1. Product catalog with detailed cards (name, price, period, tags, features, icon) and an intuitive 3-column layout.
+2. Cart functionality with add/remove, live cart count in the navbar, and a checkout action that clears the cart.
+3. Responsive, Figma-based UI with interactive elements and toast notifications for user feedback.
+
+---
  
 
 ---
