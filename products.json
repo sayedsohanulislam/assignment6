@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "ResumeRocket",
+    "description": "AI-powered resume builder that creates ATS-optimized resumes in minutes.",
+    "price": 29.99,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF",
+      "AI suggestions"
+    ],
+    "icon": "📄"
+  },
+  {
+    "id": 2,
+    "name": "DesignSync Pro",
+    "description": "Collaborative design tool with real-time editing and asset management.",
+    "price": 14.99,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Real-time collaboration",
+      "Version control",
+      "Asset library",
+      "Figma integration"
+    ],
+    "icon": "🎨"
+  },
+  {
+    "id": 3,
+    "name": "CodeVault",
+    "description": "Secure code snippet manager with syntax highlighting and team sharing.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "500+ snippets storage",
+      "Syntax highlighting",
+      "Team sharing",
+      "VS Code extension"
+    ],
+    "icon": "💻"
+  },
+  {
+    "id": 4,
+    "name": "MailForge",
+    "description": "Email marketing platform with drag-and-drop builder and analytics.",
+    "price": 49.99,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Drag & drop builder",
+      "A/B testing",
+      "Advanced analytics",
+      "10K emails/month"
+    ],
+    "icon": "✉️"
+  },
+  {
+    "id": 5,
+    "name": "DataLens",
+    "description": "Business intelligence dashboard that turns data into visual stories.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Custom dashboards",
+      "CSV/API import",
+      "Real-time charts",
+      "Export reports"
+    ],
+    "icon": "📊"
+  },
+  {
+    "id": 6,
+    "name": "TaskPilot",
+    "description": "Smart project management tool with AI task prioritization and tracking.",
+    "price": 39.99,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "AI prioritization",
+      "Gantt charts",
+      "Team collaboration",
+      "Time tracking"
+    ],
+    "icon": "✅"
+  },
+  {
+    "id": 7,
+    "name": "CloudVault",
+    "description": "Encrypted cloud storage with seamless file syncing across all devices.",
+    "price": 7.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "100GB storage",
+      "End-to-end encryption",
+      "Multi-device sync",
+      "File versioning"
+    ],
+    "icon": "☁️"
+  },
+  {
+    "id": 8,
+    "name": "SocialSpark",
+    "description": "Social media scheduler with AI caption generation and performance insights.",
+    "price": 59.99,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Multi-platform posting",
+      "AI captions",
+      "Analytics dashboard",
+      "Content calendar"
+    ],
+    "icon": "🚀"
+  },
+  {
+    "id": 9,
+    "name": "FormCraft",
+    "description": "Advanced form builder with conditional logic and payment integration.",
+    "price": 24.99,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Conditional logic",
+      "Payment integration",
+      "File uploads",
+      "Custom themes"
+    ],
+    "icon": "📝"
+  }
+]
